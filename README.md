@@ -17,7 +17,7 @@ We believe that the points regarding dataset and model descriptions should be fu
 * An evaluation of the amount of removed source data is reported
 * Instances of combining data from multiple sources clearly identified, and potential issues mitigated
 * Methods for representing data as features or descriptors clearly articulated, ideally with software implementations
-##Model descriptions
+## Model descriptions
 ### Required:
 * Detailed descriptions of all models trained, including:
 	* All features used in the model (including any feature selection)
