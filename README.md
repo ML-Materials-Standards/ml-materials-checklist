@@ -14,8 +14,8 @@ We believe that the points regarding dataset and model descriptions should be fu
 * Number of samples in the dataset
 * The details of train / validation / test splits  
 * An explanation of any data that were excluded, and all pre-processing steps
-* An evaluation of the amount of removed source data is reported
-* Instances of combining data from multiple sources clearly identified, and potential issues mitigated
+	* An evaluation of the amount of removed source data is reported
+	* Instances of combining data from multiple sources clearly identified, and potential issues mitigated
 * Methods for representing data as features or descriptors clearly articulated, ideally with software implementations
 ## Model descriptions
 ### Required:
