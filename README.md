@@ -2,7 +2,7 @@
 
 At npj Computational Materials we are striving to set the highest standards for all research published in the journal. To help with this goal we have a checklist of factors that can help you to review the paper. We understand that there are certain cases where some checklist items may be impossible or inappropriate, but where reviewers request a checklist item and authors do not comply or provide what we consider a reasonable excuse, this may be taken into account in the final editorial decision.
 
-We believe that the points regarding dataset and model descriptions should be fulfilled by all papers using ML.,T the points relating to reproducibility are strong suggestions meaning that we believe that they should be followed, unless there are valid reasons for not doing so (e.g. sensitive data). Much of this checklist has been adapted from 
+We believe that the points regarding dataset and model descriptions should be fulfilled by all papers using ML. The points relating to reproducibility are strong suggestions meaning that we believe that they should be followed, unless there are valid reasons for not doing so (e.g. sensitive data). Much of this checklist has been adapted from 
 
 * [Best practices in machine learning for chemistry](https://static-content.springer.com/esm/art%3A10.1038%2Fs41557-021-00716-z/MediaObjects/41557_2021_716_MOESM1_ESM.pdf)
 * [The JARVIS-Leaderboard reproducibility guide](https://github.com/usnistgov/jarvis_leaderboard/blob/main/docs/guide_short.md) 
