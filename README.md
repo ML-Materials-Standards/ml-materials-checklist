@@ -5,7 +5,7 @@ At npj Computational Materials we are striving to set the highest standards for 
 We believe that the points regarding dataset and model descriptions should be fulfilled by all papers using ML. The points relating to reproducibility are strong suggestions meaning that we believe that they should be followed, unless there are valid reasons for not doing so (e.g. sensitive data). Much of this checklist has been adapted from 
 
 * [Best practices in machine learning for chemistry](https://static-content.springer.com/esm/art%3A10.1038%2Fs41557-021-00716-z/MediaObjects/41557_2021_716_MOESM1_ESM.pdf)
-* [The JARVIS-Leaderboard reproducibility guide](https://github.com/usnistgov/jarvis_leaderboard/blob/main/docs/guide_short.md) 
+* [The JARVIS-Leaderboard reproducibility guide](https://pages.nist.gov/jarvis_leaderboard/guide/guide_short/) 
 * [The machine learning reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
 * [The REFORMS checklist](https://reforms.cs.princeton.edu/appendices.pdf) 
 
